@@ -1,8 +1,8 @@
 # Project AUTOAPI
-LAFORET MATHIS
-SAA IKRAM
-SENEPART MATHIAS
-LANGROGNET CHARLIE
+- LAFORET MATHIS
+- SAA IKRAM
+- SENEPART MATHIAS
+- LANGROGNET CHARLIE
 
 Contexte :
 Dans les architectures modernes, la création d’API REST ou GraphQL constitue un élément
